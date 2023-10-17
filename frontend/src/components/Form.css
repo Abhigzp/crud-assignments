@@ -1,0 +1,106 @@
+/* Styling for the form container */
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+  inset:68px;
+  height: 90px;
+}
+
+/* Styling for form inputs */
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 6px;
+}
+
+/* Styling for Submit button */
+button[type="submit"] {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+}
+
+button[type="submit"]:hover {
+  opacity: 0.8;
+}
+
+/* Styling for Delete button */
+ul li button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  background-color: #f44336;
+  color: white;
+}
+
+ul li button:hover {
+  opacity: 0.8;
+}
+/* Styling for the form container */
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for form inputs */
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+}
+
+/* Styling for Submit button */
+button[type="submit"] {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+}
+
+button[type="submit"]:hover {
+  opacity: 0.8;
+}
+
+/* Styling for Delete button */
+ul li button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  background-color: #f44336;
+  color: white;
+}
+
+ul li button:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,27 @@
+/* CSS for Customer report section */
+.customer-report {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    width: 400px;
+  }
+  
+  .customer-report h3 {
+    margin: 0;
+  }
+  
+  .customer-report input {
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .customer-report button {
+    background: lightblue;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  
